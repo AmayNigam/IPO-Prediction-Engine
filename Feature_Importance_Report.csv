@@ -1,0 +1,17 @@
+Feature,Classifier_Importance_Pct,Regressor_Importance_Pct
+Log_Total_Sub,12.47,7.41
+Total_Sub_x,11.94,5.97
+Log_QIB_Sub,8.39,15.66
+QIB_Sub_x,8.23,9.41
+Log_HNI_Sub,7.46,2.29
+Log_Capital_Demanded,6.39,11.04
+HNI_Sub_x,6.02,2.47
+QIB_to_Retail_Ratio,5.24,8.76
+Retail_Sub_x,4.8,3.16
+Institutional_Dominance,4.69,7.34
+Scarcity_Index,4.38,5.0
+Issue_Price_INR,4.31,6.57
+Log_Retail_Sub,4.25,4.49
+HNI_to_Retail_Ratio,3.98,5.32
+Log_Issue_Size,3.89,3.05
+Issue_Size_Cr,3.55,2.06
